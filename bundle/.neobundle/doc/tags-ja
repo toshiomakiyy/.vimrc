@@ -1,0 +1,12 @@
+!_TAG_FILE_ENCODING	utf-8	//
+ibus	ibus.jax	/*ibus*
+ibus#disable()	ibus.jax	/*ibus#disable()*
+ibus#enable()	ibus.jax	/*ibus#enable()*
+ibus#is_enabled()	ibus.jax	/*ibus#is_enabled()*
+ibus#toggle()	ibus.jax	/*ibus#toggle()*
+ibus-contents	ibus.jax	/*ibus-contents*
+ibus-functions	ibus.jax	/*ibus-functions*
+ibus-interface	ibus.jax	/*ibus-interface*
+ibus-introduction	ibus.jax	/*ibus-introduction*
+ibus-usage	ibus.jax	/*ibus-usage*
+ibus.txt	ibus.jax	/*ibus.txt*

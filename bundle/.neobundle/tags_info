@@ -1,0 +1,9 @@
+emmet-vim
+neobundle.vim
+neocomplcache
+nerdtree
+unite.vim
+vim-airline
+vim-ibus
+vimproc
+vimshell
